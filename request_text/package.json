@@ -1,0 +1,14 @@
+{
+  "name": "request_text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "request_text.js",
+  "type": "module",
+  "scripts": {
+    "start": "node request_text.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
